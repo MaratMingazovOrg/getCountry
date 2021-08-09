@@ -782,6 +782,20 @@
       ]
     },
     {
+      "region_name" : "DC",
+      "region_synonyms" : [
+        "District of Columbia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Washington",
+          "city_synonyms" : [
+            "Washington"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Florida",
       "region_synonyms" : [
         "Florida",
