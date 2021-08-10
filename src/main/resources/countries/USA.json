@@ -913,7 +913,8 @@
         "D.C. Metro Area",
         "DC-Baltimore Area",
         "Washington, DC"
-      ]
+      ],
+      "cities" : []
     },
     {
       "region_name" : "Georgia",
