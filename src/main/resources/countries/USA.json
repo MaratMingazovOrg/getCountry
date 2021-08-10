@@ -907,6 +907,23 @@
       ]
     },
     {
+      "region_name" : "DC",
+      "region_synonyms" : [
+        "District of Columbia",
+        "D.C. Metro Area",
+        "DC-Baltimore Area",
+        "Washington, DC"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Washington",
+          "city_synonyms" : [
+            "Washington"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Georgia",
       "region_synonyms" : [
         "Georgia",
