@@ -913,14 +913,6 @@
         "D.C. Metro Area",
         "DC-Baltimore Area",
         "Washington, DC"
-      ],
-      "cities" : [
-        {
-          "city_name" : "Washington",
-          "city_synonyms" : [
-            "Washington"
-          ]
-        }
       ]
     },
     {
